@@ -31,7 +31,7 @@ Personalized recommendations are crucial for user satisfaction and engagement. A
 
 ### Movie Recommendation System
 
-*   **A subset of The Movie Dataset from [Kaggle]([url](https://www.google.com/url?q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Frounakbanik%2Fthe-movies-dataset)), specifically:**
+*   **A subset of The Movie Dataset from Kaggle (https://www.google.com/url?q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Frounakbanik%2Fthe-movies-dataset), specifically:**
   
     *   `movies_metadata.csv`: Contains metadata for movies.
     *   `ratings_small.csv`: Contains a subset of user ratings.
