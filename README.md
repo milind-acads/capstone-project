@@ -99,3 +99,8 @@ The Decision Tree model achieved exceptional performance with an F1-score of 0.9
 
 1.  **Combine Insights for Targeted Engagement:** Integrate churn prediction with recommendation system to proactively re-engage at-risk users with personalized suggestions.
 2.  **A/B Testing:** Measure the real-world impact of interventions and the recommendation system on retention, engagement, and customer lifetime value.
+
+#### Outline of project
+
+Notebook 1 [Customer_Churn_Prediction.ipynb](https://github.com/milind-acads/capstone-project/blob/main/Customer_Churn_Prediction.ipynb)
+Notebook 2 [Reocmmendation_System_for_Streaming_Service.ipynb](https://github.com/milind-acads/capstone-project/blob/main/Reocmmendation_System_for_Streaming_Service.ipynb)
