@@ -27,10 +27,12 @@ Personalized recommendations are crucial for user satisfaction and engagement. A
 ### Customer Churn Prediction
 
 *   **"Streaming Service Data" dataset from Kaggle:** Contains customer information, subscription details, engagement metrics, and churn status.
+    (
 
 ### Movie Recommendation System
 
-*   **A subset of The Movie Dataset from Kaggle, specifically:**
+*   **A subset of The Movie Dataset from [Kaggle]([url](https://www.google.com/url?q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Frounakbanik%2Fthe-movies-dataset)), specifically:**
+  
     *   `movies_metadata.csv`: Contains metadata for movies.
     *   `ratings_small.csv`: Contains a subset of user ratings.
     *   `links_small.csv`: Contains links between movie identifiers.
