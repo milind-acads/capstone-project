@@ -26,8 +26,7 @@ Personalized recommendations are crucial for user satisfaction and engagement. A
 
 ### Customer Churn Prediction
 
-*   **"Streaming Service Data" dataset from Kaggle:** Contains customer information, subscription details, engagement metrics, and churn status.
-    (
+*   **"Streaming Service Data" dataset from Kaggle (https://www.kaggle.com/datasets/akashanandt/streaming-service-data?resource=download ) :** Contains customer information, subscription details, engagement metrics, and churn status.
 
 ### Movie Recommendation System
 
