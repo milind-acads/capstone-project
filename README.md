@@ -102,5 +102,5 @@ The Decision Tree model achieved exceptional performance with an F1-score of 0.9
 
 #### Outline of project
 
-Notebook 1 [Customer_Churn_Prediction.ipynb](https://github.com/milind-acads/capstone-project/blob/main/Customer_Churn_Prediction.ipynb)
-Notebook 2 [Reocmmendation_System_for_Streaming_Service.ipynb](https://github.com/milind-acads/capstone-project/blob/main/Reocmmendation_System_for_Streaming_Service.ipynb)
+* Notebook 1 [Customer_Churn_Prediction.ipynb](https://github.com/milind-acads/capstone-project/blob/main/Customer_Churn_Prediction.ipynb)
+* Notebook 2 [Reocmmendation_System_for_Streaming_Service.ipynb](https://github.com/milind-acads/capstone-project/blob/main/Reocmmendation_System_for_Streaming_Service.ipynb)
